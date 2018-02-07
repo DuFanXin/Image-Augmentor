@@ -1,9 +1,9 @@
 # -*- coding:utf-8 -*-
 '''  
 #====#====#====#====
-# Project Name:     Image-Augmentor
+# Project Name:     Image-Augmentor 
 # File Name:        __init__.py 
-# Date:             2/3/18 4:58 PM 
+# Date:             2/7/18 5:00 PM 
 # Using IDE:        PyCharm Community Edition  
 # From HomePage:    https://github.com/DuFanXin/Image-Augmentor
 # Author:           DuFanXin 
